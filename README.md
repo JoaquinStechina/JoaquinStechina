@@ -1,5 +1,6 @@
-# Hi, I'm Joaquin Stechina! 👋
 <img src="https://github.com/JoaquinStechina/JoaquinStechina/blob/9a7dfb4aaefeb1bc8a0fa47593247ad904001916/banner.png" alt="Banner principal" width="100%" />
+
+# Hi, I'm Joaquin Stechina! 👋
 
 Welcome to my GitHub profile!
 
