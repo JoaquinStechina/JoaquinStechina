@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning on Alura, doing ONE Formation by ORACLE!
+- 🌱 I’m currently working as a Software Engineer in Crosetto Ingeniería
 - 👯 I’m looking to collaborate on new projects with diverse teams
 - 📫 How to reach me: joaquinstechina12@gmail.com
 - ⚡ Fun fact: Ohm's law only works in direct current circuits!
